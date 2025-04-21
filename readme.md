@@ -25,4 +25,5 @@ esperado.
 • Como resultado del test obtenemos lo siguiente:
 <br>
 <img src="./images/result.jpeg" width="300">
+<br>
 Ahí se visualiza el correcto funcionamiento de la prueba.
